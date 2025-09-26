@@ -16,6 +16,7 @@ Key Takeaways
 - Distribution is a game-changer in FMCG battles.
 
 Contents
+
 CaseStudy.md → Full-length detailed case study  
 Summary.md → Short version for quick reads  
 Insights.md → Key lessons and strategy notes  
